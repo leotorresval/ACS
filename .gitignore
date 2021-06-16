@@ -1,0 +1,5 @@
+#Ignorar todos los archivos que tengan extension .log
+*.log
+!/archivo.log
+carpeta/*.sc
+!carpeta/code.sc
